@@ -1,27 +1,49 @@
 # Week 01 – ERP Fundamentals
 
-## Objective
-Build foundational understanding of ERP systems before diving into NetSuite architecture.
+## Overview
+This week focuses on building a strong foundation in ERP (Enterprise Resource Planning) before diving deeper into NetSuite architecture and advanced customization.
 
-## Key Areas Covered
+Understanding ERP fundamentals is essential for designing scalable and efficient enterprise solutions.
+
+
+## Topics Covered
+
 - What is ERP?
 - Why Businesses Need ERP
 - Core ERP Modules
 - Master Data Concepts
-- Cloud vs Traditional ERP
+- Cloud ERP vs Traditional ERP
 - ERP Lifecycle
 - Implementation Challenges
 - Business Impact
 
+
 ## Why This Matters for Developers
-Understanding ERP fundamentals helps in:
+
+As ERP developers, technical implementation must align with business processes.
+
+Key developer takeaways:
+
+- Understanding record relationships and centralized data models
 - Designing scalable customizations
-- Managing record relationships
-- Writing optimized SuiteScript
-- Aligning technical design with business processes
+- Managing governance and performance limits
+- Writing optimized scripts
+- Ensuring compliance and audit traceability
 
-## Real-World Scenario
-Customer order flow across Sales → Inventory → Procurement → Finance.
+Without business understanding, customization becomes technical debt.
 
-## LinkedIn Summary
-See linkedin-post.md
+
+## Real-World Business Flow Example
+
+Customer places Sales Order  
+→ Inventory checks stock  
+→ Procurement triggers Purchase Order  
+→ Finance generates Invoice  
+→ Management views revenue dashboard  
+
+All departments operate on the same shared database.
+
+
+## Next Topic
+
+Week 02 – RESTlet + Suitelet Architecture Pattern

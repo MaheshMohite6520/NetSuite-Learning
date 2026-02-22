@@ -46,4 +46,4 @@ All departments operate on the same shared database.
 
 ## Next Topic
 
-Week 02 – RESTlet + Suitelet Architecture Pattern
+Week 02 – Masters (Core Entities) in detail

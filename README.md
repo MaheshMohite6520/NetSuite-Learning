@@ -16,4 +16,3 @@ Each topic folder includes:
 - 📖 Detailed Technical Notes
 - 🏗 Architecture Diagrams
 - 🧩 Code Snippets & Implementation Examples
-- 📝 LinkedIn-ready Summary Post

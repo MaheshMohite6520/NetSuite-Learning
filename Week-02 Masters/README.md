@@ -119,4 +119,4 @@ Every step depends on master data accuracy.
 
 ## Next Topic
 
-**Week 03 – **
+**Week 03 – Items Foundation**

@@ -59,6 +59,6 @@ This week's documentation covers:
 
 ## Next Topic
 
-**Week 04 – Costing Engine & Inventory Valuation**
+**Week 04 – Costing Engine**
 
 Next week focuses on how NetSuite calculates inventory costs and how costing methods affect financial reporting.

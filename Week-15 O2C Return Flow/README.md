@@ -224,31 +224,57 @@ Organizations should validate return architecture behavior within their own NetS
 
 # Next Topic
 
-## Week 16 – Credit Management & Dunning Architecture
+## Week 16 – Record-to-Report (R2R) Architecture
 
-After understanding O2C Return Flow, reverse financial processing, customer refunds, and Accounts Receivable adjustments, the next step is analyzing how NetSuite manages customer credit exposure, overdue receivables, payment recovery workflows, and collection governance.
+After understanding the complete Order-to-Cash Return Flow, revenue reversals, customer refunds, inventory restoration, and Accounts Receivable adjustments, the next step is understanding how every operational transaction ultimately becomes part of an organization's financial statements.
 
 This includes:
 
-- Customer Credit Management Architecture
-- Credit Limit Validation Flow
-- Credit Hold & Release Workflow
-- Accounts Receivable Aging Analysis
-- Dunning & Collection Lifecycle
-- Customer Payment Risk Evaluation
-- Credit Approval Architecture
-- Bad Debt & Write-Off Processing
-- Posting vs Non-Posting Credit Transactions
-- Automated Dunning Workflow
-- Collection Escalation Architecture
-- Customer Risk Classification
-- Multi-Subsidiary Credit Governance
-- Financial Exposure Management
-- Audit Controls & Segregation of Duties
-- Real-World Collection Failure Scenarios
-- Best Practices for Credit Governance & Cash Flow Protection
+- Record-to-Report (R2R) Fundamentals
+- Financial Close Lifecycle
+- General Ledger Architecture
+- Chart of Accounts Design
+- Journal Entry Management
+- Journal Entry Approval Workflow
+- Posting vs Non-Posting Transactions
+- Accounting Period Management
+- Period Close Architecture
+- Sub-ledger Reconciliation
+- AR/AP Reconciliation
+- Inventory Reconciliation
+- Financial Consolidation Architecture
+- Intercompany Accounting
+- Intercompany Elimination
+- Multi-Book Accounting
+- SuiteGL Architecture
+- Custom Segments & Financial Dimensions
+- Custom GL Lines Plug-in Architecture
+- Financial Reporting Framework
+- Balance Sheet Architecture
+- Profit & Loss Reporting
+- Cash Flow Reporting
+- Trial Balance Validation
+- Revenue Recognition Considerations
+- Period-End Adjustments & Accruals
+- Financial Governance Controls
+- R2R Automation Patterns
+- Real-World Financial Failure Scenarios
+- Enterprise Financial Governance
+- Best Practices for Financial Accuracy & Compliance
 
-Because eventually every ERP implementation discovers the deeply uncomfortable difference between:
+Because eventually every ERP process reaches the same destination:
+
+> The General Ledger.
+
+And regardless of whether a transaction originated from Procurement, Sales, Inventory, Payroll, Projects, or Customer Returns, leadership ultimately wants answers to only two questions:
+
+> "Are the financial statements accurate?"
+
+and
+
+> "Can we trust the numbers we are reporting?"
+
+Record-to-Report (R2R) is the architecture that transforms operational activity into financial truth through controlled accounting, reconciliation, period close, consolidation, and reporting processes.
 
 > “Revenue recognized”
 >

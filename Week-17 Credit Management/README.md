@@ -41,7 +41,6 @@ the organization must eventually answer one critical question:
 
 Because revenue recognition may create profit on paper, but cash collection determines business survival.
 
----
 
 ## Key Topics Covered
 
@@ -76,13 +75,11 @@ Because revenue recognition may create profit on paper, but cash collection dete
 - Financial Risk Mitigation
 - Best Practices for Credit Governance
 
----
 
 ## Architectural Concept
 
 ### End-to-End Credit Management Flow
 
-```text
 Customer Setup
         ↓
 Credit Limit Configuration
@@ -110,11 +107,10 @@ Payment Received
 Credit Release
         ↓
 Financial Reporting
-```
+
 
 ### Credit Hold Architecture
 
-```text
 Customer Credit Limit
         ↓
 Outstanding Balance Check
@@ -132,11 +128,10 @@ Order Block
 Payment Resolution
         ↓
 Credit Hold Release
-```
+
 
 ### Dunning Escalation Architecture
 
-```text
 Invoice Due Date
         ↓
 Level 0 Reminder
@@ -152,11 +147,10 @@ Level 4 Final Demand
 Write-Off Review
         ↓
 Bad Debt Processing
-```
+
 
 ### AR Aging Architecture
 
-```text
 Open Invoices
         ↓
 Current
@@ -172,9 +166,7 @@ Current
 Risk Assessment
         ↓
 Collection Strategy
-```
 
----
 
 ## Why This Matters
 
@@ -200,7 +192,6 @@ A misunderstanding of Credit Management architecture can lead to:
 - Audit concerns
 - Financial instability
 
----
 
 ## Documentation Included
 
@@ -238,7 +229,6 @@ A misunderstanding of Credit Management architecture can lead to:
 - Enterprise Credit Governance
 - Best Practices for Receivables Control
 
----
 
 ## Architectural Insight
 
@@ -266,7 +256,6 @@ The Credit Management Engine protects the Order-to-Cash lifecycle while enforcin
 - Financial accountability
 - Audit traceability
 
----
 
 ## Configuration Disclaimer
 
@@ -287,40 +276,43 @@ Actual Credit Management behavior, credit hold enforcement, dunning processes, a
 
 Organizations should validate all credit management processes within their own NetSuite environment before production implementation.
 
----
 
 ## Next Topic
 
-### Week 18 – Fixed Assets Management Architecture
+### Week 18 – Bank Reconciliation Architecture
 
-After understanding how organizations manage customer credit exposure and receivables risk, the next step is understanding how businesses acquire, depreciate, track, transfer, retire, and report long-term assets throughout their lifecycle.
+After understanding how organizations manage customer credit exposure, receivables risk, collections, and cash flow protection, the next step is understanding how businesses validate cash balances, reconcile financial records, identify discrepancies, and ensure financial reporting accuracy through structured bank reconciliation processes.
 
 This includes:
 
-- Fixed Assets Fundamentals
-- Asset Lifecycle Management
-- Asset Acquisition
-- Asset Depreciation
-- Depreciation Methods
-- Asset Transfers
-- Asset Revaluation
-- Asset Disposal
-- Asset Retirement
-- Asset Write-Offs
-- Asset Leasing Considerations
-- Fixed Assets Management SuiteApp
-- Fixed Asset Reporting
-- Depreciation Journals
-- Multi-Book Asset Accounting
-- Fixed Asset Audit Controls
-- Capitalization Policies
-- Financial Statement Impact
-- Compliance & Governance
+- Bank Reconciliation Fundamentals
+- Bank Data Matching
+- Intelligent Transaction Matching
+- Match Bank Data Workflow
+- Bank Statement Imports
+- Automated Bank Feeds
+- Transaction Matching Rules
+- Exception Management
+- Manual Matching Procedures
+- Reconcile Account Statement Process
+- Cleared Transaction Management
+- Reconciliation Balance Validation
+- Cash Account Verification
+- Reconciliation Reporting
+- Audit Trail Architecture
+- GL Impact of Reconciliation
+- Financial Close Controls
+- Period-End Reconciliation
+- Multi-Account Reconciliation
+- Multi-Subsidiary Reconciliation
+- Reconciliation Automation
+- Financial Governance Controls
+- Compliance & Audit Readiness
 
 Because eventually every organization discovers the difference between:
 
-> Purchasing an asset
+> Recording cash transactions
 
 and
 
-> Accounting for that asset correctly throughout its entire useful life.
+> Verifying that those transactions actually match the bank's records.

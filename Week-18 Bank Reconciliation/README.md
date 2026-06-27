@@ -188,36 +188,40 @@ A misunderstanding of Bank Reconciliation architecture can lead to:
 
 ## Next Topic
 
-### Week 18 – Fixed Assets Management Architecture
+### Week 19 – Intercompany Elimination Architecture
 
-After understanding how organizations manage customer credit exposure and receivables risk, the next step is understanding how businesses acquire, depreciate, track, transfer, retire, and report long-term assets throughout their lifecycle.
+After understanding how organizations manage fixed assets throughout their lifecycle, the next step is understanding how businesses eliminate intra-group transactions to produce accurate consolidated financial statements across multiple subsidiaries.
 
 This includes:
 
-- Fixed Assets Fundamentals
-- Asset Lifecycle Management
-- Asset Acquisition
-- Asset Depreciation
-- Depreciation Methods
-- Asset Transfers
-- Asset Revaluation
-- Asset Disposal
-- Asset Retirement
-- Asset Write-Offs
-- Asset Leasing Considerations
-- Fixed Assets Management SuiteApp
-- Fixed Asset Reporting
-- Depreciation Journals
-- Multi-Book Asset Accounting
-- Fixed Asset Audit Controls
-- Capitalization Policies
-- Financial Statement Impact
-- Compliance & Governance
+- Intercompany Elimination Fundamentals
+- NetSuite OneWorld Architecture
+- Automated Intercompany Management (AIM)
+- Intercompany Sales & Purchase Transactions
+- Advanced Intercompany Journal Entries (AICJE)
+- Intercompany Receivables & Payables
+- Inventory Transfers
+- Drop Shipments
+- Elimination Accounts
+- Elimination Subsidiaries
+- Least Common Parent Rule
+- CTA-E (Cumulative Translation Adjustment – Elimination)
+- Foreign Currency Translation
+- Consolidated Exchange Rates
+- Period Close Elimination Workflow
+- Elimination Journal Entries
+- Journal Entry Summarization
+- Intercompany Reconciliation Report
+- Intercompany Elimination Report
+- Multi-Book Accounting
+- GL Impact Analysis
+- SuiteScript Automation
+- Financial Governance & Compliance
 
 Because eventually every organization discovers the difference between:
 
-> Purchasing an asset
+> Recording intercompany transactions
 
 and
 
-> Accounting for that asset correctly throughout its entire useful life.
+> Eliminating them correctly to present a true consolidated financial position.

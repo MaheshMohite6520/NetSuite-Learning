@@ -187,36 +187,39 @@ A misunderstanding of Intercompany Elimination architecture can lead to:
 
 ## Next Topic
 
-### Week 20 – Fixed Assets Management Architecture
+### Week 20 – Revenue Recognition & Deferred Revenue Architecture
 
-After understanding how organizations eliminate intra-group transactions and produce accurate consolidated financial statements, the next step is understanding how businesses acquire, capitalize, depreciate, transfer, retire, and report long-term assets throughout their lifecycle.
+After understanding how organizations recognize revenue over time and comply with accrual accounting principles, the next step is understanding how businesses defer revenue, recognize earned income across accounting periods, automate revenue schedules, and ensure accurate financial reporting throughout the revenue lifecycle.
 
 This includes:
 
-- Fixed Assets Fundamentals
-- Asset Lifecycle Management
-- Asset Acquisition
-- Asset Capitalization
-- Asset Depreciation
-- Depreciation Methods
-- Asset Transfers
-- Asset Revaluation
-- Asset Disposal
-- Asset Retirement
-- Asset Write-Offs
-- Fixed Assets Management SuiteApp
-- Depreciation Journals
-- Multi-Book Asset Accounting
-- Fixed Asset Reporting
-- Asset Audit Controls
-- Capitalization Policies
-- Financial Statement Impact
-- Compliance & Governance
+- Revenue Recognition Fundamentals
+- Deferred Revenue Architecture
+- Revenue Recognition Templates
+- Revenue Recognition Methods
+- Revenue Recognition Schedules
+- Revenue Recognition Journal Entries
+- Revenue Recognition Periods
+- Revenue Recognition Preferences
+- Revenue Recognition Accounts
+- Revenue Recognition Lifecycle
+- Standard & Variable Templates
+- Percent-Complete Revenue Recognition
+- Revenue Recognition Automation
+- Revenue Recognition Reports
+- Deferred Revenue Management
+- General Ledger Impact
+- Advanced Revenue Management (ARM)
+- Revenue Allocation
+- Multi-Book Accounting
+- SuiteScript Automation
+- Audit Controls
+- Financial Governance
 
 Because eventually every organization discovers the difference between:
 
-> Purchasing an asset
+> Receiving payment from a customer
 
 and
 
-> Managing that asset accurately throughout its entire financial lifecycle.
+> Recognizing that revenue accurately as the performance obligation is fulfilled.

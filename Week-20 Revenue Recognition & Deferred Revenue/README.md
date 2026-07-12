@@ -215,37 +215,42 @@ A misunderstanding of Revenue Recognition architecture can lead to:
 
 ## Next Topic
 
-### Week 21 – Subscription Billing Architecture
+### Week 21 – Tax Architecture in NetSuite (Legacy Tax & SuiteTax)
 
-After understanding how organizations recognize revenue over time and comply with revenue recognition standards, the next step is understanding how businesses manage recurring customer billing, subscription lifecycles, renewals, amendments, usage-based pricing, and automated recurring invoicing.
+After understanding how organizations recognize revenue accurately over time and comply with revenue recognition standards, the next step is understanding how NetSuite determines, calculates, governs, and reports taxes across multiple jurisdictions using both Legacy Tax and SuiteTax.
 
 This includes:
 
-- Subscription Billing Fundamentals
-- Subscription Plans
-- Recurring Billing
-- Billing Schedules
-- Subscription Lifecycle
-- Renewals
-- Amendments
-- Usage-Based Billing
-- Recurring Invoicing
-- Proration
-- Billing Automation
-- Subscription Changes
-- Revenue Integration
-- Customer Subscription Management
-- Billing Exceptions
-- Multi-Book Considerations
-- Subscription Reporting
+- Tax Architecture Fundamentals
+- Legacy Tax
+- SuiteTax
+- Legacy Tax vs SuiteTax
+- Nexus
+- Nexus Determination Logic
+- Tax Registrations
+- Tax Codes
+- Tax Types
+- Tax Groups
+- Tax Schedules
+- Tax Engines
+- SuiteTax Engine
+- Third-Party Tax Engines
+- Tax Details
+- Tax Exemptions
+- Tax Calculation Lifecycle
+- SuiteTax Migration
+- Tax Reporting
+- General Ledger Impact
+- SuiteScript Tax Automation
+- Financial Compliance
 - Audit Controls
 - Financial Governance
-- Best Practices for Subscription Billing
+- Best Practices for Tax Architecture
 
 Because eventually every organization discovers the difference between:
 
-> Selling a subscription
+> Applying a tax rate
 
 and
 
-> Managing recurring billing accurately throughout the customer's lifecycle.
+> Designing a tax architecture that calculates, validates, and reports taxes accurately across multiple jurisdictions.

@@ -60,7 +60,6 @@ Because taxation is not determined solely by a tax rate.
 
 It depends on jurisdiction, registrations, tax engines, transaction details, and compliance rules.
 
----
 
 ## Key Topics Covered
 
@@ -93,7 +92,6 @@ It depends on jurisdiction, registrations, tax engines, transaction details, and
 - Financial Governance Controls
 - Best Practices for Tax Architecture
 
----
 
 ## Architectural Concept
 
@@ -117,7 +115,6 @@ General Ledger Posting
         ↓
 Financial Reporting
 
----
 
 ### Legacy Tax Architecture
 
@@ -135,7 +132,6 @@ Tax Posting
         ↓
 General Ledger
 
----
 
 ### SuiteTax Architecture
 
@@ -157,7 +153,6 @@ General Ledger
         ↓
 Tax Reporting
 
----
 
 ### SuiteTax Migration Workflow
 
@@ -177,7 +172,6 @@ SuiteTax Activation
         ↓
 Tax Calculation
 
----
 
 ### SuiteScript Tax Automation Flow
 
@@ -195,7 +189,6 @@ Business Validation
         ↓
 Transaction Save
 
----
 
 ## Why This Matters
 
@@ -225,39 +218,45 @@ A misunderstanding of Tax Architecture can lead to:
 - Weak financial controls
 - Increased implementation risk
 
----
 
 ## Next Topic
 
-### Week 22 – Subscription Billing Architecture
+### Week 22 – Tax Architecture Deep Dive
 
-After understanding how NetSuite determines and calculates taxes across multiple jurisdictions, the next step is understanding how organizations automate recurring billing for subscription-based businesses.
+After understanding the fundamentals of taxation in NetSuite, the next step is taking a deep dive into how the complete tax architecture works behind every taxable transaction.
 
 This includes:
 
-- Subscription Billing Fundamentals
-- Subscription Plans
-- Billing Schedules
-- Recurring Billing
-- Subscription Lifecycle
-- Renewals
-- Amendments
-- Usage-Based Billing
-- Proration
-- Recurring Invoicing
-- Billing Automation
-- Revenue Integration
-- Customer Subscription Management
-- Subscription Reporting
-- Multi-Book Considerations
-- Audit Controls
+- Legacy Tax Architecture
+- SuiteTax Architecture
+- Legacy Tax vs SuiteTax
+- Nexus Determination
+- Tax Registrations
+- Tax Codes
+- Tax Types
+- Tax Groups
+- Tax Schedules
+- Tax Engines
+- Tax Agencies
+- Tax Details
+- Tax Exemptions
+- Effective-Dated Tax Registrations
+- Tax Calculation Lifecycle
+- SuiteTax Migration
+- SuiteTax Enablement
+- Third-Party Tax Integrations
+- General Ledger Impact
+- Tax Reporting
+- Financial Compliance
+- SuiteScript Tax Automation
+- Audit Trail Management
 - Financial Governance
-- Best Practices for Subscription Billing
+- Enterprise Tax Best Practices
 
 Because eventually every organization discovers the difference between:
 
-> Selling a subscription
+> Configuring tax records
 
 and
 
-> Managing recurring billing accurately throughout the customer's lifecycle.
+> Designing a scalable, compliant tax architecture that accurately calculates, validates, and reports taxes across multiple jurisdictions.

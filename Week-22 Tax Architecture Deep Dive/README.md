@@ -128,4 +128,6 @@ A solid understanding of Tax Architecture enables organizations to:
 Whether you're a **NetSuite Developer**, **Administrator**, **Functional Consultant**, **Technical Consultant**, or **Solution Architect**, understanding Tax Architecture is essential for implementing reliable, compliant, and scalable financial solutions.
 
 
-**Next Week:** **Week 23 – Subscription Billing Architecture**, where we'll explore how organizations manage recurring billing, subscription lifecycles, renewals, amendments, usage-based pricing, recurring invoicing, and revenue integration for subscription-based business models.
+**Next Week:** 
+**Week 23 – Multi-Currency & Revaluation in NetSuite**, 
+where we'll explore how organizations manage multiple currencies, currency exchange rates, foreign currency revaluation, realized and unrealized gains and losses, consolidated exchange rates, global financial consolidation, and SuiteScript-based currency automation for accurate financial reporting across multi-subsidiary and multinational business operations.

@@ -130,4 +130,6 @@ Whether you're a **NetSuite Developer**, **Administrator**, **Functional Consult
 
 ## Next Week
 
-**Week 24 – Revenue Recognition Architecture**, where we'll explore how NetSuite manages revenue recognition, revenue arrangements, revenue elements, allocation rules, recognition schedules, ASC 606 / IFRS 15 compliance, ARM (Advanced Revenue Management), and revenue automation for enterprise financial operations.
+## Next Week
+
+**Week 24 – Accounting Period Control & Closing Process**, where we'll explore how NetSuite manages Accounting Periods, Fiscal Period Hierarchies, Locking vs. Closing, the Period Close Checklist, Accounting Period Window, Quick Close, Reopening Periods, Year-End Closing, Multi-Book Accounting, SuiteScript period validation, and enterprise financial close governance.

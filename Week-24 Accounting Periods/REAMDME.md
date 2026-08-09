@@ -181,4 +181,6 @@ This repository is part of my **NetSuite Architecture Learning Series**, where I
 
 ## Next Week
 
-**Week 25 – Revenue Recognition Architecture**, where we'll explore how NetSuite manages Revenue Arrangements, Revenue Elements, Allocation Rules, Recognition Rules, Recognition Schedules, ASC 606 / IFRS 15 compliance, Advanced Revenue Management (ARM), and enterprise revenue automation.
+## Next Week
+
+**Week 25 – Budgeting & Financial Reporting Architecture**, where we'll explore how NetSuite manages budgets, budget categories, multiple budget versions, financial reporting, Budget vs. Actual analysis, and enterprise financial planning.
